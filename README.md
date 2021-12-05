@@ -12,4 +12,3 @@ we determine whether the eyes are open or they are closed.</br></br>
 <li>Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.</ul>
 
 
-<h2>Detailed Explanation video of the project : </h2><a href="https://youtu.be/ksi42rwGyas">Youtube video link</a>
